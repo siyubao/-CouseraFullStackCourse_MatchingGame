@@ -1,3 +1,3 @@
 # CouseraFullStackCourse_MatchingGame
 
-HTML/CSS Week 2 Assignment
+HTML/CSS Week 3 Assignment
